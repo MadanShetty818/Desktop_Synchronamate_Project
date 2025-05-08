@@ -7,10 +7,7 @@ Synchronamate is an intelligent voice-controlled desktop assistant developed in 
 ## 📽️ Demo & Screenshots
 
 ### 🎬 Desktop UI (Tkinter)
-![Main Window](window.png)
-
-### 📸 Command Output Preview
-![Assistant Action Window](update.png)
+<img src="update.png" width="300" height="auto">
 
 ---
 
@@ -55,13 +52,13 @@ Synchronamate is an intelligent voice-controlled desktop assistant developed in 
 ---
 
 ## 📂 Project Directory Structure
-synchronamate/
-├── main.py # Main voice assistant logic (GUI + voice + actions)
-├── data.txt # Stores remembered user notes
-├── img.jpg # Captured image via webcam (ecapture)
-├── update.png # Assistant command output screenshot
-├── window.png # Background image for the GUI
-└── README.md # Project documentation (this file)
+- synchronamate/
+- ├── main.py # Main voice assistant logic (GUI + voice + actions)
+- ├── data.txt # Stores remembered user notes
+- ├── img.jpg # Captured image via webcam (ecapture)
+- ├── update.png # Assistant command output screenshot
+- ├── window.png # Background image for the GUI
+- └── README.md # Project documentation (this file)
 
 ## 📥 Download the Project
 
