@@ -4,7 +4,6 @@ Synchronamate is an intelligent voice-controlled desktop assistant developed in 
 
 ---
 
-## 📽️ Demo & Screenshots
 
 ### 🎬 Desktop UI (Tkinter)
 <img src="update.png" width="300" height="auto">
@@ -34,9 +33,8 @@ Synchronamate is an intelligent voice-controlled desktop assistant developed in 
 
 ---
 
-## 🧰 Tech Stack
+## 🧰 Libraries
 
-- **Python 3.x**
 - **SpeechRecognition** – For capturing and converting speech to text
 - **pyttsx3** – Text-to-speech engine (offline)
 - **wikipedia** – Fetches summarized info
@@ -50,14 +48,25 @@ Synchronamate is an intelligent voice-controlled desktop assistant developed in 
 - **Twilio, smtplib** – Email/SMS (optional)
 
 ---
+- 
+## Tech Stack
+- Python 3.x
+- Tkinter for GUI
+- SpeechRecognition, pyttsx3, pyjokes, and more
 
-## 📂 Project Directory Structure
-** synchronamate/
-** ├── data.txt # Stores remembered user notes
-** ├── img.jpg # Captured image via webcam (ecapture)
-** ├── update.png # Assistant command output screenshot
-** ├── window.png # Background image for the GUI
-** └── README.md # Project documentation (this file)
+---
+
+## Installation
+1. Clone or download the project
+2. Run `main.py` to start the assistant
+
+---
+
+## Conclusion
+
+Synchronamate is an AI-powered desktop voice assistant built using Python, offering voice control for system operations, media playback, web tasks, weather updates, and more. The assistant provides a personalized experience and is designed to make daily computing tasks hands-free and efficient. With an intuitive GUI and integration of multiple libraries like SpeechRecognition and pyttsx3, Synchronamate offers seamless interaction for users
+
+---
 
 ## 📥 Download the Project
 
